@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755341622023",
+    "project_id": "krestiki-noliki-online",
+    "storage_bucket": "krestiki-noliki-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755341622023:android:5d53388157714dbb5fe3a2",
+        "android_client_info": {
+          "package_name": "com.study.android.krestikinolikionline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JODvkmD0UaedMaSinAT3qGITphsQXfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
